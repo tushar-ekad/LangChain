@@ -31,3 +31,5 @@ streamlit
 
 pydantic
 pydantic[email]
+
+pypdf

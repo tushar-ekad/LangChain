@@ -32,4 +32,9 @@ streamlit
 pydantic
 pydantic[email]
 
+# PDF document loader
 pypdf
+
+# Sitemap.xml document loader
+lxml
+beautifulsoup4

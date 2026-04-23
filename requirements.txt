@@ -38,3 +38,8 @@ pypdf
 # Sitemap.xml document loader
 lxml
 beautifulsoup4
+
+chromadb
+faiss-cpu
+tiktoken
+wikipedia

@@ -43,3 +43,6 @@ chromadb
 faiss-cpu
 tiktoken
 wikipedia
+
+duckduckgo-search
+langchain-experimental

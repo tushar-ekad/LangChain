@@ -2,6 +2,7 @@
 langchain
 langchain-core
 langchain-community
+langchain-aws
 
 # OpenAI Integration
 langchain-openai
